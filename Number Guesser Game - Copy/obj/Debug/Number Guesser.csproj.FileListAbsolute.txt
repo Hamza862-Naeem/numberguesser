@@ -1,0 +1,7 @@
+C:\Users\WIN10\Downloads\Vs code Program File\C# files\Number Guesser\bin\Debug\Number Guesser.exe.config
+C:\Users\WIN10\Downloads\Vs code Program File\C# files\Number Guesser\bin\Debug\Number Guesser.exe
+C:\Users\WIN10\Downloads\Vs code Program File\C# files\Number Guesser\bin\Debug\Number Guesser.pdb
+C:\Users\WIN10\Downloads\Vs code Program File\C# files\Number Guesser\obj\Debug\Number Guesser.csprojAssemblyReference.cache
+C:\Users\WIN10\Downloads\Vs code Program File\C# files\Number Guesser\obj\Debug\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Downloads\Vs code Program File\C# files\Number Guesser\obj\Debug\Number Guesser.exe
+C:\Users\WIN10\Downloads\Vs code Program File\C# files\Number Guesser\obj\Debug\Number Guesser.pdb
